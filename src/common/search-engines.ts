@@ -335,6 +335,8 @@ export const SEARCH_ENGINES: Readonly<Record<SearchEngineId, Readonly<SearchEngi
           'https://jsearch.pw/search',
           'https://searx.org/search',
           'https://search.neet.works/search',
+          'https://searx.melashri.xyz/search',
+          'https://searx.elashri.xyz/search',
           //GET method for the same domains below. Not recommended for use.
           'https://searx.be/search?*',
           'https://searx.tiekoetter.com/search?*',
@@ -358,8 +360,6 @@ export const SEARCH_ENGINES: Readonly<Record<SearchEngineId, Readonly<SearchEngi
           'https://jsearch.pw/search?*',
           'https://searx.org/search?*',
           'https://search.neet.works/search?*',
-          'https://searx.melashri.xyz/search?*',
-          'https://searx.elashri.xyz/search?*',
           
         ],
         //New public domains will have to be supported by the community.
